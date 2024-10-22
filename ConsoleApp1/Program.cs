@@ -15,8 +15,8 @@ namespace ConsoleApp1
             int a = int.Parse(Console.ReadLine());
             Console.Write("b=");
             int b = int.Parse(Console.ReadLine());
-            int c = a + b;
-            Console.Write($"a+b={c}");
+            int d = a + b;
+            Console.Write($"a+b={d}");
             Console.ReadKey();
 
         }
