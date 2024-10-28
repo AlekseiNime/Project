@@ -44,7 +44,6 @@ namespace ConsoleApp2
             //    double num5 = Convert.ToDouble(Console.ReadLine());
             //    double sum3 = num3 + num4 + num5;
             //    Console.WriteLine($"Сумма трех чисел: {sum3}");
-            //    Console.ReadKey();
             //}
 
             //Task_2 --------------------------------------------------------------
@@ -61,8 +60,6 @@ namespace ConsoleApp2
             //Console.WriteLine($"Периметр: {perimeter}");
             //Console.WriteLine($"Площадь: {area}");
 
-            //Console.ReadKey();
-
             //Task_3 --------------------------------------------------------------
 
             //Console.WriteLine("Введите длину первого катета:");
@@ -75,14 +72,13 @@ namespace ConsoleApp2
 
             //Console.WriteLine($"Длина гипотенузы: {gip}");
 
-            //Console.ReadKey();
-
-            //Task_4 --------------------------------------------------------------
+           //Task_4 --------------------------------------------------------------
 
             //Console.Write("Введите длину стороны квадрата: ");
             //double side = Convert.ToDouble(Console.ReadLine());
             //double perimeter = 4 * side;
             //double area = side * side;
+            //double area=Matt.Pow(side,2);
             //Console.WriteLine($"Для стороны {side}: Периметр = {perimeter}, Площадь = {area}");
             //Console.ReadKey();
         }
