@@ -82,7 +82,7 @@ namespace ConsoleApp2
             //Console.Write("Введите длину стороны квадрата: ");
             //double side = Convert.ToDouble(Console.ReadLine());
             //double perimeter = 4 * side;
-            //double area = side * side;
+            //double area = Math.Pow(side,2);
             //Console.WriteLine($"Для стороны {side}: Периметр = {perimeter}, Площадь = {area}");
             //Console.ReadKey();
         }
