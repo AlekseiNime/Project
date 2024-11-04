@@ -5,3 +5,10 @@ D:\Программные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.csp
 D:\Программные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 D:\Программные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 D:\Программные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\Програмные коды\Project\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Програмные коды\Project\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Програмные коды\Project\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Програмные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Програмные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Програмные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Програмные коды\Project\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
