@@ -18,7 +18,11 @@ namespace ConsoleApp3
             //b = int.Parse(Console.ReadLine());
             //c = a + b;
             //Console.WriteLine($"{a}+{b}={c}");
+            Console.WriteLine($"{a}+{b}={a+b}");
             //Console.ReadKey();
+            
+            
+            
             //Task_2-----------------------------
             //int a, b, c;
             //Console.Write("a= ");
